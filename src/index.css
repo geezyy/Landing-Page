@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.shadow {
+    cursor: pointer;
+    box-shadow: 1px 4px 12px 0px rgba(0, 0, 0, 0.08);;
+}
+
+.flg{
+    /* border: 8px solid black; */
+    margin-top:-15rem;
+}
